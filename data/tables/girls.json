@@ -9,6 +9,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1001",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Flying Crane Attack",
@@ -96,6 +99,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1002",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Triple-Linked Rice Ball",
@@ -183,6 +189,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1003",
+     "element": "Moon",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Iron Rock Crash",
@@ -270,6 +279,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1004",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Mori Ranmaru Dance",
@@ -357,6 +369,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1005",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Joyful Dance",
@@ -444,6 +459,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1006",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Spiral Lunge",
@@ -531,6 +549,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1007",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Dazzling Flowers",
@@ -618,6 +639,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1008",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Start Cleaning",
@@ -705,6 +729,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1009",
+     "element": "Snow",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Sarutobi Current",
@@ -792,6 +819,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1010",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Toxic Fumes Explosion",
@@ -879,6 +909,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1011",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Lightning Sound Arrow",
@@ -966,6 +999,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1012",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Six Paths Combo Slash",
@@ -1047,6 +1083,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21012",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Assault - Triple Attack",
@@ -1162,6 +1201,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31012",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Hunting Blitz",
@@ -1306,6 +1348,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1013",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Dragon Armor Piercing",
@@ -1393,6 +1438,9 @@
      "grade": "SR",
      "star": 4,
      "head": "head1014",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Dance of Hear Love",
@@ -1480,6 +1528,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1015",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Iceworld",
@@ -1561,6 +1612,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21015",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Bloody Night Wolf",
@@ -1676,6 +1730,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31015",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Gacial Cycles",
@@ -1820,6 +1877,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1016",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Mighty Slash",
@@ -1907,6 +1967,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1017",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "DEF Fmn",
@@ -1994,6 +2057,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1018",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Mischief-Maker",
@@ -2081,6 +2147,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1019",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Lash of Love",
@@ -2168,6 +2237,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1020",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Invincible Dance",
@@ -2255,6 +2327,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1021",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Empty",
@@ -2342,6 +2417,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1022",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Uesugi Kenshin Dragon Slash",
@@ -2429,6 +2507,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1023",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Smash",
@@ -2516,6 +2597,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1024",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Kurama-Cold Wind",
@@ -2603,6 +2687,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1025",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Lunatic Blow",
@@ -2684,6 +2771,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21025",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Courageous Charge",
@@ -2799,6 +2889,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31025",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Final Sin Judgment",
@@ -2943,6 +3036,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1026",
+     "element": "Snow",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Lightning",
@@ -3030,6 +3126,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1027",
+     "element": "Moon",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Thunder Shock",
@@ -3117,6 +3216,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1028",
+     "element": "Snow",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Katanagari",
@@ -3204,6 +3306,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1029",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Soul Stealing",
@@ -3285,6 +3390,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21029",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Lumine Bond",
@@ -3406,6 +3514,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1030",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Flames of Death",
@@ -3493,6 +3604,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1031",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Ninjutsu-Shadow Slash",
@@ -3580,6 +3694,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1032",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Strike of Valor",
@@ -3667,6 +3784,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1033",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Rain of Rose",
@@ -3754,6 +3874,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1034",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Furious Shock",
@@ -3841,6 +3964,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1035",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Flames Attack",
@@ -3928,6 +4054,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1036",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Quick Dash",
@@ -4015,6 +4144,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1037",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Impact of Contraptions",
@@ -4102,6 +4234,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1038",
+     "element": "Moon",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Shake Earth",
@@ -4189,6 +4324,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1039",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Elf Magic",
@@ -4270,6 +4408,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21039",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Happy Succubus Bomb",
@@ -4391,6 +4532,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1040",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Mortal Bite",
@@ -4478,6 +4622,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1041",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Spear Breaking",
@@ -4559,6 +4706,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21041",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Silver Spear Breakthrough Attack",
@@ -4674,6 +4824,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31041",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Fiery Thrust",
@@ -4818,6 +4971,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1042",
+     "element": "Moon",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Spear Lunge",
@@ -4905,6 +5061,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1043",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Fall of Divine Punishment",
@@ -4986,6 +5145,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21043",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Light of Love - Limit Break",
@@ -5107,6 +5269,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1044",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Iron and Blood",
@@ -5188,6 +5353,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21044",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Steel Fist Blast",
@@ -5303,6 +5471,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31044",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Reckless Delivery",
@@ -5447,6 +5618,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1045",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "War Lord Strike",
@@ -5534,6 +5708,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1046",
+     "element": "Snow",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Throw of Sparta",
@@ -5621,6 +5798,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1047",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Come and Go",
@@ -5708,6 +5888,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1048",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Triple Lunge",
@@ -5789,6 +5972,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21048",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Ski Slash",
@@ -5910,6 +6096,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1049",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Deluxe Gift of Storm",
@@ -5991,6 +6180,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21049",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Season's Greetings!",
@@ -6112,6 +6304,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1050",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Hassaku-Flowers in the Fog",
@@ -6199,6 +6394,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1051",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Aurora Soaring Formation",
@@ -6286,6 +6484,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1052",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Wolf Raid",
@@ -6373,6 +6574,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1053",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Word Slash",
@@ -6460,6 +6664,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1054",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Dragon Slash",
@@ -6547,6 +6754,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1055",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Flash Combo",
@@ -6634,6 +6844,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1056",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Mystic Sword-Shinning Water",
@@ -6721,6 +6934,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1057",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Enchanting Song of Flower Dance",
@@ -6808,6 +7024,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1058",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Devastated Slash",
@@ -6889,6 +7108,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21058",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Inferno Thunderstrike",
@@ -7010,6 +7232,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1059",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Big Fish Splash",
@@ -7097,6 +7322,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1060",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "The Great",
@@ -7184,6 +7412,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1061",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Conquest-Shadow",
@@ -7271,6 +7502,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1062",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Wolf Slash",
@@ -7358,6 +7592,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1063",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Dance of Senbon",
@@ -7445,6 +7682,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1064",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Thunderbolt",
@@ -7532,6 +7772,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1065",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Mirror of Sky",
@@ -7619,6 +7862,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1066",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Drunken Dance-Serpent Spear Barrage",
@@ -7706,6 +7952,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1067",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Saint Assault",
@@ -7793,6 +8042,9 @@
      "grade": "SSR",
      "star": 5,
      "head": "head1068",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Here we go! Clean up!",
@@ -7880,6 +8132,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21070",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Reincarnation - Death Wheel",
@@ -7995,6 +8250,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31070",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Conquest Dance",
@@ -8139,6 +8397,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21072",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Whale Surge - Wave Tread",
@@ -8254,6 +8515,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31072",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Heartbeat Shanty",
@@ -8398,6 +8662,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21073",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Pentagram Array",
@@ -8513,6 +8780,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31073",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Thousand Curse",
@@ -8657,6 +8927,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21074",
+     "element": "Snow",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "God's Whip - Hurricane",
@@ -8778,6 +9051,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21075",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Frozen Night",
@@ -8899,6 +9175,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21076",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Soul - Spirit Reaper",
@@ -9020,6 +9299,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21077",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Solomon Attack",
@@ -9135,6 +9417,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31077",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Card Hypnosis",
@@ -9279,6 +9564,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21078",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Radiant - Meteoric Dance",
@@ -9400,6 +9688,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21079",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Divine Cross",
@@ -9515,6 +9806,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31079",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Eternal Blaze",
@@ -9659,6 +9953,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21080",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Thunder - Silver Lance Dance",
@@ -9780,6 +10077,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21081",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Rock - Audio Track",
@@ -9901,6 +10201,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21082",
+     "element": "Moon",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Compassion - Reasoned Criticism",
@@ -10022,6 +10325,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21083",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Divine Prowess - Hunter Slash",
@@ -10143,6 +10449,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21084",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Kido - Illusion",
@@ -10264,6 +10573,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21085",
+     "element": "Snow",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Groundbreaker Strike",
@@ -10385,6 +10697,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21086",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Dark Shatter",
@@ -10506,6 +10821,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21087",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Fragrant Rose",
@@ -10627,6 +10945,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21088",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Auric Creation",
@@ -10748,6 +11069,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21089",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Wild Slash",
@@ -10869,6 +11193,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21090",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Dark Snipe",
@@ -10990,6 +11317,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21101",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Eye of Misery",
@@ -11111,6 +11441,9 @@
      "grade": "UR",
      "star": 6,
      "head": "head21104",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Quatrain·Moonlight",
@@ -11232,6 +11565,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31103",
+     "element": "Snow",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Charm Mirage",
@@ -11376,6 +11712,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31105",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Instant Slash",
@@ -11520,6 +11859,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31106",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Valiant Strike",
@@ -11664,6 +12006,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31107",
+     "element": "Snow",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Contrapasso",
@@ -11808,6 +12153,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31108",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Magic Parasite",
@@ -11952,6 +12300,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31109",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "The Hunt's Oath",
@@ -12096,6 +12447,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31110",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Fleeting Enlightenment",
@@ -12240,6 +12594,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31111",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Chaos Strike",
@@ -12384,6 +12741,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31112",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Soul-Devouring Grudge Curse",
@@ -12528,6 +12888,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31113",
+     "element": "Wind",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Ferocious Lion Strike",
@@ -12672,6 +13035,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31114",
+     "element": "Flower",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Cursed Spirit Bind",
@@ -12816,6 +13182,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31115",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Divine Poison Sake",
@@ -12960,6 +13329,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31116",
+     "element": "Moon",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Blade Frenzy",
@@ -13104,6 +13476,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31117",
+     "element": "Moon",
+     "type": "Intellect",
+     "leader": true,
      "skills": [
       {
        "name": "Vajra Mantra",
@@ -13248,6 +13623,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31118",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Touchblade Insight",
@@ -13392,6 +13770,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31119",
+     "element": "Flower",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Raven Mask",
@@ -13536,6 +13917,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31120",
+     "element": "Snow",
+     "type": "Stamina",
+     "leader": true,
      "skills": [
       {
        "name": "Ring of Alienation",
@@ -13680,6 +14064,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31121",
+     "element": "Wind",
+     "type": "Intellect",
+     "leader": false,
      "skills": [
       {
        "name": "Extinction Butterfly Light",
@@ -13824,6 +14211,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31122",
+     "element": "Flower",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Swallow Slash",
@@ -13968,6 +14358,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31123",
+     "element": "Snow",
+     "type": "Strength",
+     "leader": true,
      "skills": [
       {
        "name": "Victory Through Allies",
@@ -14112,6 +14505,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31124",
+     "element": "Moon",
+     "type": "Stamina",
+     "leader": false,
      "skills": [
       {
        "name": "Crystal Waltz",
@@ -14256,6 +14652,9 @@
      "grade": "UR·EX",
      "star": 7,
      "head": "head31125",
+     "element": "Wind",
+     "type": "Strength",
+     "leader": false,
      "skills": [
       {
        "name": "Merciless Tide and Flame",
