@@ -14790,5 +14790,18 @@
     }
    ]
   }
- ]
+ ],
+ "icons": {
+  "element": {
+   "Wind": "hufu_xi_1",
+   "Flower": "hufu_xi_2",
+   "Snow": "hufu_xi_3",
+   "Moon": "hufu_xi_4"
+  },
+  "type": {
+   "Stamina": "IC_zhiye_1",
+   "Intellect": "IC_zhiye_2",
+   "Strength": "IC_zhiye_3"
+  }
+ }
 }
