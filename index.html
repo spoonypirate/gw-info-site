@@ -11,8 +11,15 @@
     <meta property="og:url" content="https://gw-info.lyxdesic.net/">
     <link rel="canonical" href="https://gw-info.lyxdesic.net/">
     <title>Girl Wars Info</title>
-    <script type="module" crossorigin src="./assets/index-B5zJiXMu.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-BwYvWq6s.css">
+    <!-- GW-site (#16): theme before first paint. localStorage.theme = "light" | "dark", absent = follow the OS -->
+    <script>
+      try {
+        document.documentElement.classList.toggle('dark', localStorage.theme === 'dark' ||
+          (!('theme' in localStorage) && matchMedia('(prefers-color-scheme: dark)').matches))
+      } catch { document.documentElement.classList.toggle('dark', matchMedia('(prefers-color-scheme: dark)').matches) }
+    </script>
+    <script type="module" crossorigin src="./assets/index-BWktUaZK.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BH0-UrlH.css">
   </head>
   <body>
     <div id="app"></div>
